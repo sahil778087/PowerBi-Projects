@@ -1,3 +1,11 @@
+
+# Technologies Used
+- Sql Server Management Studio
+- Power BI
+
+
+
+
 # Project-Target
 Create an entire ETL process in a database & a Power BI dashboard to utilize the Customer Data and achieve below goals:
   - Visualize & Analyse Customer Data at below levels
